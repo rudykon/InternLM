@@ -1,18 +1,22 @@
-![image](https://github.com/rudykon/InternLM/assets/15075498/fbea8743-b990-4dc9-b8f4-124998ec8883)# InternLM
-
-
 
 
 书生·浦语大模型的发展历程：浦语大模型经过将近一年的发展迭代，已经发布了InternLM22.浦语大模型可以根据自己的资源的情况，选择轻量模型和全量模型进行部署
+![image](https://github.com/rudykon/InternLM/assets/15075498/fbea8743-b990-4dc9-b8f4-124998ec8883)# InternLM
+
+浦语大模型2.0面向不同的使用需求，每个规格包含三个模型版本
+![image](https://github.com/rudykon/InternLM/assets/15075498/b9c49be0-f3f7-468d-aad8-339d9504129d)
+
+书生·浦语2.0（InternLM2）的主要亮点:超长上下文、综合性能全面提升、优秀的对话和创作体验、工具调用能力整体升级、突出的数理能力和实用的数据分析功能。
+![image](https://github.com/rudykon/InternLM/assets/15075498/be868e37-ee49-4635-b75a-9ffdf677f2ac)
+
+从模型到应用典型流程
+![image](https://github.com/rudykon/InternLM/assets/15075498/92a97771-3961-4a95-b9de-ffdb6c46fc06)
+
+浦语大模型拥有优秀的开发工具箱或者开放平台，方便用户对大模型进行二次开发
+![image](https://github.com/rudykon/InternLM/assets/15075498/6e4b8501-79d6-4298-91f7-fc38ebc48f47)
 
 
-浦语大模型2.0拥有如下优点：超长上下文综合能力进一步提升用户体验良好工具丰富，搭建模型方便优秀的数据推理和分析能力
-
-轻量级浦语大模型和综合的浦语大模型能力对比可以就看到，20B的模型性能是好于轻量级模型的，而且不管是哪种大模型，代码和数学能力都还有很大的提升空间
-
-浦语大模型拥有优秀的开发工具箱，方便用户对大模型进行二次开发
-
-浦语大模型拥有CompassKit大模型评测全栈工具链7.浦语大模型通过CompassHub开源社区进行推广
+浦语大模型拥有CompassKit大模型评测全栈工具链
 
 
 
