@@ -1,7 +1,7 @@
 ![image](https://github.com/rudykon/InternLM/assets/15075498/523e9fa0-f2e1-4ba3-8312-616a8a02e4d2)
 
 书生·浦语大模型的发展历程
-![image](https://github.com/rudykon/InternLM/assets/15075498/fbea8743-b990-4dc9-b8f4-124998ec8883)# InternLM
+![image](https://github.com/rudykon/InternLM/assets/15075498/fbea8743-b990-4dc9-b8f4-124998ec8883)
 
 InternLM2面向不同的使用需求，每个规格包含三个模型版本
 ![image](https://github.com/rudykon/InternLM/assets/15075498/b9c49be0-f3f7-468d-aad8-339d9504129d)
