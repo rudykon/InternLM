@@ -3,3 +3,4 @@
 完成 浦语·灵笔2 的 图文创作 及 视觉问答 部署
 ![image](https://github.com/rudykon/InternLM/assets/15075498/98a81845-c5c4-4b23-a7bd-2296346ff6f2)
 完成 Lagent 工具调用 数据分析 Demo 部署
+![image](https://github.com/rudykon/InternLM/assets/15075498/6c12166f-8d04-44a5-b7bf-22407c648eed)
