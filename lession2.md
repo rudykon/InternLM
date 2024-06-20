@@ -16,6 +16,8 @@
 进阶作业 (优秀学员必做)
 
 熟悉 huggingface 下载功能，使用 huggingface_hub python 包，下载 InternLM2-Chat-7B 的 config.json 文件到本地（需截图下载过程）
+![image](https://github.com/rudykon/InternLM/assets/15075498/83cb4758-6c73-4cba-9fe6-9ef33c9e2229)
+![image](https://github.com/rudykon/InternLM/assets/15075498/4c1c5e9f-376a-4ab9-81a0-02d945957742)
 
 
 
